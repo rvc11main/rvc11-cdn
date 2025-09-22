@@ -1,0 +1,16 @@
+Package: akatsuki
+Version: 1.0.0
+Architecture: any
+Maintainer: Your Name <you@example.com>
+Depends: bash
+Filename: pool/main/a/akatsuki_1.0.0_any.deb
+Size: 840
+MD5sum: c7172d4b8016e3443545fa1e8df95eb3
+SHA1: 76f31656ed388f6f69280af456d860381f52b24f
+SHA256: 31f81582e73580fa35e9788467c3879901bc1e867b1f1f46841aac3e113a149b
+Section: utils
+Priority: optional
+Description: Short desc
+ Long description can span multiple lines
+ and keeps going 💀
+
