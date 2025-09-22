@@ -1,13 +1,13 @@
 Package: akatsuki
 Version: 1.0.0
-Architecture: any
+Architecture: all
 Maintainer: Your Name <you@example.com>
 Depends: bash
-Filename: pool/main/a/akatsuki_1.0.0_any.deb
+Filename: pool/main/a/akatsuki_1.0.0_all.deb
 Size: 840
-MD5sum: c7172d4b8016e3443545fa1e8df95eb3
-SHA1: 76f31656ed388f6f69280af456d860381f52b24f
-SHA256: 31f81582e73580fa35e9788467c3879901bc1e867b1f1f46841aac3e113a149b
+MD5sum: db4e7e74278aa303bea326077b829e21
+SHA1: aa2a8bc64fb3ee94091176a996ae1915f5c11c96
+SHA256: b787da4bedb97fc8fbb980ec9d382b9e631c89b6abdabd8c4bcbd9cf4f1c2dd1
 Section: utils
 Priority: optional
 Description: Short desc
